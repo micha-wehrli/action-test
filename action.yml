@@ -3,4 +3,5 @@ runs:
   using: "composite"
   steps:
     - name: "test"
+      shell: sh
       run: echo hi
