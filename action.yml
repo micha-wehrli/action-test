@@ -4,4 +4,4 @@ runs:
   steps:
     - name: "test"
       shell: sh
-      run: echo hi
+      run: echo ono
